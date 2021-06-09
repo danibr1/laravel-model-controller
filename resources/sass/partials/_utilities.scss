@@ -1,0 +1,27 @@
+// GENERAL
+.txt-center {
+    text-align: center;
+}
+
+/********************************
+    FLEX UTILITIES
+*********************************/
+.flex {
+    display: flex;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.ji-center {
+    justify-items: center;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}

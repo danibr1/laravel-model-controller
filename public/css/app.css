@@ -1,0 +1,41 @@
+/*****************************************
+    APP MAIN STYLE
+*****************************************/
+.txt-center {
+  text-align: center;
+}
+
+/********************************
+    FLEX UTILITIES
+*********************************/
+.flex {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.ji-center {
+  justify-items: center;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.card {
+  width: calc(100% / 5);
+  height: 200px;
+  margin: 10px 10px;
+  padding: 15px 5px;
+}
+
+.title {
+  font-size: 1.25rem;
+  color: #230163;
+}
